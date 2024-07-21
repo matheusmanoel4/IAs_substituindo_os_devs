@@ -19,6 +19,10 @@ O processo de criação envolveu várias etapas: desde a pesquisa e coleta de da
 
 Veja o vídeo que explica como as IAs não estão aqui para substituir, mas para ajudar:
 
+
+https://github.com/user-attachments/assets/fa522152-ddce-4a3f-8ef9-e2230edb63cc
+
+video com melhor qualidade
 [Assista ao vídeo no YouTube](https://youtu.be/uhn2zh1o6ps)
 
 
