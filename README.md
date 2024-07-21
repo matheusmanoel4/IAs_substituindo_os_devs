@@ -16,9 +16,11 @@ O processo de criação envolveu várias etapas: desde a pesquisa e coleta de da
 
 ## 🚀 Resultados
 ## Assista ao Vídeo
+
 Veja o vídeo que explica como as IAs não estão aqui para substituir, mas para ajudar:
 
-[![Vídeo sobre IA](https://img.youtube.com/vi/uhn2zh1o6ps/maxresdefault.jpg)](https://youtu.be/uhn2zh1o6ps)
+[Assista ao vídeo no YouTube](https://youtu.be/uhn2zh1o6ps)
+
 
 
 
